@@ -12,7 +12,7 @@
 # l’algorithme découpe le graphe en clusters. 
 # 
 # Un graphe est un objet mathématique composé de sommets (vertex) reliés par des arètes (edge). 
-# Une des représentations informatique consiste en une matrice carrée nommée matrice d’adjacence. 
+# Une des représentations informatiques consiste en une matrice carrée nommée matrice d’adjacence. 
 # Une cellule de cette matrice contient le poids de l’arète reliant deux sommets ou zéro en absence de lien.
 # 
 # On distingue les graphes orientés (directed graph) des graphes non orientés (undirected graph). 
@@ -22,7 +22,7 @@
 # 
 # 
 # Principes et algorithme de MCl
-# Une bonne méthode de clustering maximisela similarité des objets appartenant à un même cluster (cohésion)
+# Une bonne méthode de clustering maximise la similarité des objets appartenant à un même cluster (cohésion)
 # la dissemblance entre objets appartenant à des clusters différents (séparation).
 # 
 # En ce qui concerne le partitionnement de graphes, une bonne méthode vise à ce que les clusters obtenus 
